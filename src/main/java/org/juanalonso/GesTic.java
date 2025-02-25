@@ -11,11 +11,11 @@ public class GesTic {
     
         public static void main(String[] args) {
             while (true) {
-                menu();
+                menu1();
             }
         }
     
-        public static void menu() {
+        public static void menu1() {
             System.out.println("1. Cargar datos");
             System.out.println("2. Nueva incidencia");
             System.out.println("3. Resolver incidencia");
